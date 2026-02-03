@@ -28,11 +28,7 @@ Mi objetivo es combinar mi experiencia en investigación biomédica con la cienc
 ---
 
 ## 🚀 Proyectos Destacados
-*(Aún por subir, se pueden actualizar luego)*  
 
-- Clasificador de imágenes con CNN  
-- Análisis exploratorio de datos (EDA) en Kaggle  
-- Predicción de series temporales  
 
 ---
 
