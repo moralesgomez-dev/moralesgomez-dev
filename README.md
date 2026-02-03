@@ -1,14 +1,13 @@
 # Alejandro Morales
 
 📍 Granada  
-**Data Scientist en formación | Apasionado por el Aprendizaje Automático**
+**Data Scientist en formación | Apasionado por Machine Learning**
 
 ---
 
 ## 🧠 Sobre mí
-Soy Dietista-Nutricionista de formación, especializado en investigación biomédica donde he participado en proyectos de carácter nacional e internacional. Durante este periodo trabajé gran parte en el campo de la bioinformática,   
-donde me apasioné por analizar datos, visualizarlos y explorar el aprendizaje automático, encontrando mi verdadera vocación en la ciencia de datos.
-Esto me llevo a formarme con el grado superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
+Soy nutricionista de formación, especializado en investigación biomédica.  
+Descubriendo en este campo la bioinformática, me apasioné por analizar datos y explorar el aprendizaje automático, encontrando mi verdadera vocación en la ciencia de datos.  
 
 Actualmente sigo formándome en Machine Learning, Deep Learning y análisis de datos, realizando proyectos propios y aprendiendo nuevas técnicas para resolver problemas complejos con datos.  
 Mi objetivo es combinar mi experiencia en investigación biomédica con la ciencia de datos para generar conocimientos útiles y aplicables en la práctica.
@@ -16,13 +15,24 @@ Mi objetivo es combinar mi experiencia en investigación biomédica con la cienc
 ---
 
 ## 🛠️ Habilidades y Tecnologías
-Lenguajes y librerías que manejo o estoy aprendiendo:
 
-<img src="https://skillicons.dev/icons?i=python,r,pandas,scikitlearn,pytorch,seaborn,mysql,postgresql" />
+### Lenguajes: Python, R
+<img src="https://skillicons.dev/icons?i=python,r" /> 
 
-- **Lenguajes:** Python, R  
-- **Librerías:** Pandas, Scikit-Learn, PyTorch, Seaborn  
-- **Bases de datos:** MySQL, PostgreSQL  
+### Librerías / Frameworks: Pandas, Scikit-Learn, PyTorch, Seaborn
+<img src="https://skillicons.dev/icons?i=pandas,scikitlearn,pytorch,seaborn" /> 
+
+### Bases de Datos: MySQL, PostgreSQL
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" /> 
+
+---
+
+## 🚀 Proyectos Destacados
+*(Aún por subir, se pueden actualizar luego)*  
+
+- Clasificador de imágenes con CNN  
+- Análisis exploratorio de datos (EDA) en Kaggle  
+- Predicción de series temporales  
 
 ---
 
