@@ -33,6 +33,7 @@ Mi objetivo es combinar mi experiencia en investigación biomédica con la cienc
 ---
 
 ## 📫 Contacto
+No dudes en contactarme a través de mi correo electrónico o LinkedIn y visitar mi perfil de Kaggle
 - [LinkedIn](https://www.linkedin.com/in/morales-gomez-alejandro/)  
 - [Kaggle](https://www.kaggle.com/moralesgomez)  
 - Email: alexmgmz7@gmail.com
