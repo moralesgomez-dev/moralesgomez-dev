@@ -7,9 +7,9 @@
 
 ## 🧠 Sobre mí
 Soy nutricionista de formación, especializado en investigación biomédica.  
-Descubriendo en este campo la bioinformática, me apasioné por analizar datos y explorar el aprendizaje automático, encontrando mi verdadera vocación en la ciencia de datos.  
+Descubriendo en este campo la *bioinformática*, me apasioné por analizar datos y explorar el aprendizaje automático, encontrando mi verdadera vocación en la *ciencia de datos*.  
 
-Actualmente sigo formándome en Machine Learning, Deep Learning y análisis de datos, realizando proyectos propios y aprendiendo nuevas técnicas para resolver problemas complejos con datos.  
+Actualmente sigo formándome en *Machine Learning, Deep Learning y análisis de datos*, realizando proyectos propios y aprendiendo nuevas técnicas para resolver problemas complejos con datos.  
 Mi objetivo es combinar mi experiencia en investigación biomédica con la ciencia de datos para generar conocimientos útiles y aplicables en la práctica.
 
 ---
